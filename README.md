@@ -32,6 +32,6 @@
   
   <p>For more Android / Flutter source codes please visit: <a href="https://www.octalops.com/category/android/">https://www.octalops.com/category/android/</a></p>
   
-  <p>Thank you for your interest in the Period & Ovulation Tracker App. Happy coding!</p>
+  <p>Thank you for your interest in the Gold Rates Android App. Happy coding!</p>
 </body>
 </html>
